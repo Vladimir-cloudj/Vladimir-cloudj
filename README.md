@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**Vladimir-cloudj/Vladimir-cloudj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, my name is Vladimir!
+### Hi there 👋 my name is Vladimir!
 
 ---
 
@@ -86,6 +81,7 @@ I study on front-end  developer<img src="https://media.giphy.com/media/WUlplcMpO
 
 
 <!--
+**Vladimir-cloudj/Vladimir-cloudj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
